@@ -1,6 +1,6 @@
-# Reading list
+# Reading List
 
-## Fighter mindset
+## Fighter Mindset
 
 - [ ] Principles of Personal Defense - Jeff Cooper
 - [ ] Left of Bang - Patrick Von Horne, Jason A. Riley
@@ -21,3 +21,41 @@
 ## History
 
 - [x] Unbroken - Laura Hillenbrand
+- [ ] Thomas Jefferson and the Tripoli Pirates - Brian Kilmeade
+- [ ] 1776 - David McCullough
+- [x] The Decline and Fall of the Roman Empire - Edward Gibbon
+- [ ] Foxes Book of Martyrs - John Foxe
+- [ ] Church History in Plain Language - Bruce Shelley
+- [ ] Ghost Soldiers - Hampton Sides
+- [ ] Patton: Genius for War - Carlo D'Este
+- [x] Black Hawk Down - Mark Bowden
+- [ ] John Adams - David McCullough
+- [ ] Washington: A Life - Ron Chernow
+- [ ] God of Liberty: A Religious History of the American Revolution - Thomas Kidd
+- [ ] God's War: A New History of the Crusades
+- [ ] God's Battalions: The Case for the Crusades
+- [ ] Warriors of God: Richard the Lionheart & Saladin in the 3rd Crusade
+
+## Masculinity, Femininity and Family
+
+- [x] Wild at Heart - John Eldridge
+- [ ] The Book of Man - William J. Bennett
+- [ ] Recovering Biblical Manhood and Womanhood
+- [ ] Financial Peace - Dave Ramsey
+- [ ] The Five Love Languages - Gary Chapman
+
+## Philosophy
+
+- [ ] Francis Schaeffer Trilogy
+- [ ] C.S. Lewis Collection
+- [x] Mere Christianity - C.S. Lewis
+- [ ] Ravi Zacharias
+- [ ] On Guard - William Lane Craig
+- [ ] The Design of Life - William Dembski
+- [ ] Truth Project DVD Series
+
+## Theology
+
+- [ ] ESV Study Bible - God
+- [ ] ESV Reference Bible
+- [ ] Systematic Theology - Wayne Grudem
