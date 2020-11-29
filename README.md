@@ -59,3 +59,32 @@
 - [ ] ESV Study Bible - God
 - [ ] ESV Reference Bible
 - [ ] Systematic Theology - Wayne Grudem
+- [x] They Found the Secret - V. Raymond Edman
+- [x] Creed or Chaos? - Dorothy L. Sayers
+
+## Personal Development
+
+- [x] Psycho-cybernetics - Maxwell Maltz
+- [x] Man Up - Bedros Keuilian 
+
+## Fiction
+
+- [x] Ben-Hur - Lew Wallace
+- [ ] William Shakespeare Complete Works
+- [ ] Sir Knight of the Splendid Way - W.E. Clue
+- [ ] Pilgrims Progress - John Bunyan
+- [ ] Space Trilogy - C.S. Lewis
+- [ ] Manalive - G.K. Chesterton
+- [ ] 1984 - George Orwell
+- [x] Chronicles of Narnia - C.S. Lewis
+- [ ] Picture of Dorian Gray - Oscar Wilde
+- [x] Count of Monte Cristo - Alexandre Dumas
+- [x] Les Miserables - Victor Hugo
+- [x] Lord of the Rings - J.R. Tolkien
+- [x] Sword of Truth Series - Terry Goodkind
+- [x] Forgotten Realms - R.A. Salvatore
+
+## Inspiration
+
+- [x] Alone Against the North - Adam Shoalts
+- [x] Beyond the Trees - Adam Shoalts
