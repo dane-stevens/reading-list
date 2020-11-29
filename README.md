@@ -2,4 +2,4 @@
 
 ## Fighter mindset
 
-[] Principles of Personal Defense - Jeff Cooper
+- [ ] Principles of Personal Defense - Jeff Cooper
