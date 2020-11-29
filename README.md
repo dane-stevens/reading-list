@@ -3,7 +3,7 @@
 ## Fighter mindset
 
 - [ ] Principles of Personal Defense - Jeff Cooper
-- [ ] Lef of Bang - Patrick Von Horne, Jason A. Riley
+- [ ] Left of Bang - Patrick Von Horne, Jason A. Riley
 - [ ] Fighting Smarter - Tom Givens
 - [ ] Deadly Force - Massad Ayoob
 - [ ] On Combat - Dave Grossman
